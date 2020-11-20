@@ -26,6 +26,18 @@ body {
   background-color: black;
 }
 
+.circle {
+  border-radius: 500px;
+}
+
+.triangle {
+/*
+Randomize direction
+White stroke
+https://css-tricks.com/the-shapes-of-css/#triangle-top-left-shape
+*/
+}
+
 #instructions {
   position: absolute;
   display: block;
